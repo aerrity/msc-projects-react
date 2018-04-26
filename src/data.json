@@ -1,0 +1,228 @@
+[
+  {
+    "Year": 2017,
+    "First": "John",
+    "Last": "Allen",
+    "Title": "Improving the User Experience of Recording Seizure Data",
+    "Image": "john.png",
+		"Abstract": "The use of mobile devices to record health data is becoming more popular. Mobile health applications (m-health apps) are available for real-time monitoring and detection of changes in a patient's health status. Among these applications are epilepsy seizures tracking applications. The study focused on the research question which is: Can applying user experience research in the design of an m-health app for recording seizure data lead to greater user satisfaction? Design research was conducted with a user group on an existing app using UX research methods mainly user interviews and task analysis along with qualitative questionnaires. A prototype application was designed and built based on the findings of the design research. User research of the prototype app was conducted using the same tools as used initially in the design research. Results were compared and analysed. Findings suggest that there was improved user satisfaction for users when recording seizure data on an app that was designed following UX design guidelines."
+  },
+  {
+    "Year": 2017,
+    "First": "Lida",
+    "Last": "Douka",
+    "Title": "The Effects of a Conversational Assistant on User Experience & Data/Insights discoverability on Google Analytics",
+    "Image": "lida.png",
+		"Abstract": ["The aim of this dissertation is to assess the effects of conversational interfaces on the user experience and data/insights discoverability of Google Analytics. The results of such a study will add to an increasing literature stream associated with the effect of conversational interfaces on business dashboards and the effect on user experience and decision making. The empirical evidence of the study will also provide meaningful insights, which could assist in the design of the conversational flow of these assistants, in order to assist users with data and insights discoverability and decision making when they are interacting with business dashboards via conversational assistants. Through a structured experiment specifically designed to compare the behaviour and the user experience when users are interacting with a conversational assistant and when users are interacting directly with the Google Analytics.",
+    "Based on the qualitative and quantitative statistical results, this study argues that the use of conversational assistants can significantly improve the user experience and data discoverability and aid on decision making process of a Google Analytics user."]
+  },
+  {
+    "Year": 2017,
+    "First": "Simon",
+    "Last": "Finney",
+    "Title": "Perceived loading time and overall satisfaction of animation principles in user interface design",
+    "Image": "simon.png",
+		"Abstract": ["In the past few years, it has been discovered that the style of animated transitions can play an important part in determining the users’ perception of a user interface (UI), and how animations can provide solutions which minimises the impact of loading times and presentation in user experience (UX). Not only can animation be used to guide users’ attention to parts of the UI, but it has been proven to be leveraged in providing smooth transitions and seamless UX for complex applications that are memory-intensive or consume a lot of bandwidth. While there’s been some research into how styles of animated transitions can influence the users’ satisfaction of a UI, there’s been little academic research into whether different animation principles can have a significant impact on users’ perceived loading times of a UI.",
+    "In this research study, the impact of three of Disney’s Twelve Basic Principles of Animation will be examined against scores for perceived loading times and overall satisfaction. An experimental design, in which three animation principles are applied to a UI for evaluation is outlined, and subsequently conducted with 80 participants from the student and working population. The results are presented to determine the suitability of the application of different animation principles with regards to perceived loading times and overall satisfaction. It was discovered that the mean scores of the evaluated animation principles had an impact on perceived loading times and overall satisfaction of the UI. The results of the experiment did not indicate statistical significance perhaps due to the relatively small sample size and the differing backgrounds of participants. It is expected that this research study will continue the trend of academic research into the perception of animation principles in UI design as well as provide deeper insights into how designers can apply these principles more purposefully in their work."]
+  },
+  {
+    "Year": 2017,
+    "First": "Gerard",
+    "Last": "Fitzgerald",
+    "Title": "The Effects Of Persuasive Design When Onboarding Users To Social Recognition Platforms",
+    "Image": "gerard.png",
+		"Abstract": ["This study aimed to identify the effects of using persuasive design when onboarding users to social recognition platforms. Social recognition gives employees the tools to create meaningful relationships in the workplace and fosters peer to peer employee recognition and appreciation. User onboarding is a process that looks at the experience a user has the very first time they use an application. Onboarding strategies in applications can help enhance user adoption and reduce the rate of application abandonment. The study identified a leading company in the field of social recognition that was used as the platform to carry out this research. The goal was to determine if the use of persuasive techniques during user onboarding, can help new employees adopt and participate confidently when using social recognition for the first time.",
+    "The review of literature explores two main areas; 1.) The psychology that influences user behaviour and decision making. 2.) The techniques used to onboard new users to products and applications.  The literature review assesses the state of the art of how the principles of influence are used with user onboarding to enhance participation and adoption to applications. Thus, the study identifies a possible problem to address in the form of the following research question: \"Is persuasive design likely to enhance participation when used to onboard users to social recognition?” The study interviewed 12 participants who are new to social recognition. Additionally, an initial study was carried out on six global organisations using social recognition as a solution, so that participation and adoption rates for those companies could be gathered and analysed. The findings from the initial data collected were used as a basis for the ideation work which was explored using a product design sprint. The goal of the sprint was to address the user needs and to look at persuasive techniques that could be used to enhance the proposed solution.",
+    "The output of the design sprint were two prototypes that were then user tested with the same 12 participants, to validate statements and assumptions relating to how the solution would be likely to affect adoption and platform participation. The study found that by introducing persuasive techniques to an onboarding strategy, those techniques are highly likely to enhance user engagement, adoption and help reduce some of the uncertainties experienced when using a social recognition platform for the first time. The study outlines some of the key contributions of the findings and discusses thoughts for future research."
+    ]
+  },
+  {
+    "Year": 2017,
+    "First": "Orla",
+    "Last": "Lewis",
+    "Title": "The impact of an actionable cookie on the perceptions of control over privacy and trust for online users",
+    "Image": "orla.png",
+		"Abstract": ["User experience designers shape the way products are delivered, with the objective always being to design accessible, user-centred designs. They also have a responsibility to ensure that users’ best interests are being served during the development of online services and products. Hence, considering how users’ data is being treated should be a priority in any product development process. This is particularly relevant at a time when only 15% of Europeans feel that they have complete control over the information they provide online.",
+    "The purpose of the present study aimed to evaluate the impact of an actionable cookie on the perceptions of control over privacy and trust for online users. The study employed a mixed methods research design. The design of the study consisted of both experimental and questionnaire elements. The qualitative data defines what elements participants deem most relevant to discuss in relation to their experience of online privacy. The study focused on e-commerce and evaluated two cookie designs; one industry standard cookie design, and one actionable cookie design. 30 participants were surveyed to gather views on online privacy. Three participants completed a pilot direct comparative usability test. 14 participants took part in direct comparative usability testing, each carrying out two tasks on two versions of the same e-commerce website.",
+    "The findings show that actionable options have a positive influence on perceived control. However, results suggest that brand recognition has an effect on trust scores regardless of the participants’ perception of control over privacy for online users. The study was limited by the relatively small sample size (n=44). To date, no research has studied the impact of providing actionable choices for users within a cookie when it comes to their online privacy, making this an experimental study."]
+  },
+  {
+    "Year": 2017,
+    "First": "Itziar",
+    "Last": "Lopez de Heredia",
+    "Title": "Improving UX of video test automation tools working with thousands of devices",
+    "Image": "itziar.png",
+		"Abstract": [ "Nowadays, the amount of data and information around us is growing exponentially. This dramatically increases the amount of data a single user has to manage and makes finding information a challenging act. Users search for information in different ways and with different goals. Information Architecture is the design discipline that helps organize and make information findable and understandable. Designing information seeking interfaces is a task studied by multiple researchers. Video test automation systems are tools used to test the software of devices under test, such as set-to-boxes, tablets, games consoles and smartTVs. They are not excluded from the exponential growth of information. As software release cycles for devices under test shorten and the pressure for continuous delivery cycles increases, video test automation tools run 24/7, in order to reduce the overall test time of a release. By adding more and more devices to the system, all running tests in parallel, releases are validated in a shorter time frame. This creates an exponential growth of information. With thousands of devices in the system, users need to be able to see the overall status of the system, need to find a device for testing, for debugging, etc. Finding available devices becomes a challenge as the current user interface is not design to support thousands of devices.",
+    "This research project focuses on improving the performance and user experience of one video test automation tool, Accenture StormTest, when working with thousands of devices. This project shows how device findability can be improved and user experience increased when using a search interface and a set of search result filters. A User Centred Design (UCD) methodology was followed. Interviews, observations, usability tasks and card sorting methods were used during the three phases of the project execution: user research, design and user testing. A recommendation for the developers of StormTest video test automation tool would be to integrate the UCD methods used in this thesis into their software development cycle."]
+  },
+  {
+    "Year": 2017,
+    "First": "Rachelle",
+    "Last": "Mulder",
+    "Title": "Smartphone Oblivion in Context of Road Safety: Determining the Suitable Tone-of-Voice for a Smartphone Notification Application",
+    "Image": "rachelle.png",
+		"Abstract": ["Smartphone oblivion, which includes activities such as walking and typing, listening to music through headphones and conversing while walking, is considered a growing threat in public spaces, especially roadways. Although many factors contribute to the increase in pedestrian fatalities, the growing use of smartphones while walking is regarded as the main cause of distraction to pedestrians. Recognising the smartphone as the most direct point of contact with an individual, this research project aims to transform the device from the source of distraction to a road safety measure by warning pedestrians, distracted by their smartphones, of upcoming interactions with road traffic. The smartphone has already been leveraged to guard pedestrians in a road safety context. GPS, the rear-facing camera, Wi-Fi, Bluetooth and other on-board sensors of smartphones have been applied to detect and warn a distracted pedestrian of a potentially dangerous situation.",
+    "However, this research project does not set out to study or improve the technology for detecting a dangerous situation. Instead, it focuses on the content of the message that is presented to a distracted pedestrian in these circumstances. The distinction between LOOKApp! and the other smartphone apps of this nature is that it focuses on the tone-of-voice and the content of the message rather than the technology. The aim is to determine whether distracted pedestrians are concerned with the content and mood of an alert in this context – do they care how they are alerted and if so, what is the most suited tone-of-voice for communicating a notification of this nature?"]
+  },
+  {
+    "Year": 2017,
+    "First": "Laura",
+    "Last": "Nolan",
+    "Title": "An Investigation of Chatbot Personalities and Their Effect on User Satisfaction and Engagement",
+    "Image": "laura.png",
+		"Abstract": ["There has been much comment about the rise of conversational interfaces, also known as chatbots, and artificial intelligence as the world strives to develop a deeper relationship with our computers. Users often associate human-like characteristics with things which are not human, such as animals and computers. In a study by Nass and Moon (1996) it was seen that human users associated personalities with computers which were either designed to have submissive or dominant personalities. By creating a personality for a chatbot, we can develop a deeper relationship with our computers and perhaps increase user satisfaction and engagement.",
+    "The goal of this thesis is to examine if two chatbot personalities have an effect on user satisfaction and engagement. The hypothesis was tested by designing two chatbots personalities which the user could interact with to complete a tasks in an online banking scenario. The chatbots, Chatbot A and Chatbot B, were programmed with the same number of responses and the same response time, but with a personality associated with Chatbot A and another personality associated with Chatbot B. During user testing, the participants were observed in order to gather qualitative data including their reactions and additional interactions with the chatbot, as well as to gather quantitative data by measuring the time taken to complete a task. They were then interviewed following the tests to determine their satisfaction rating for both chatbots, and their preference for either chatbot.",
+    "The quantitative findings showed that the mean satisfaction rating of Chatbot A and Chatbot B were both the same and that 7 out of 10 users preferred interacting with Chatbot B. However the qualitative findings showed that there was a higher level of engagement with Chatbot A after task completion, in that users casually conversed with Chatbot A as opposed to Chatbot B."]
+  },
+  {
+    "Year": 2017,
+    "First": "Donal",
+    "Last": "O'Mahony",
+    "Title": "User centered cross functional teams: How to reduce dysfunction?",
+    "Image": "donal.png",
+		"Abstract": "Software development methodologies such as lean UX, agile and design thinking all extol the benefits of cross functional collaboration and a singular team vision. While there is considerable investment in these methodologies, it is rare for the same level of investment to be made in the development of the team members given the level of dysfunction uncovered in cross functional teams. This research first examines which factors are important in reducing dysfunction and increasing the level of collaboration, unity and trust within user centered cross functional software design teams. Two surveys of members on four cross functional teams were conducted. The pre-survey measured the level of dysfunction. A set of improvement techniques were proposed, to help with each team’s area of dysfunction. After tailored improvement techniques were undertaken by each team, a post-survey indicated that three of the four team’s levels of dysfunction had decreased. This research suggests that these techniques could be employed by user centered cross functional teams to potentially reduce dysfunction."
+  },
+  {
+    "Year": 2017,
+    "First": "Neil",
+    "Last": "O’Donoghue",
+    "Title": "Identifying which characteristics of online user reviews are perceived to be the most useful and trustworthy in the recruitment industry",
+    "Image": "neil.png",
+		"Abstract": ["Rationale: Online user reviews are widely used by consumers to gathering information about products, services, organisations and experiences. In the form of ratings and textual reviews they are commonly used to get information on hotels, restaurants, electronic devices and more. However, they have never been used by job seekers to gather information about independent recruiters.",
+    "Objectives: This paper explores the numerous characteristics that make up online user reviews and identifies which characteristics job seekers perceive to be the most useful and trustworthy for selecting a recruiter to work with.",
+    "Methods: A survey, interviews and user testing were conducted in three stages. A survey was first administered to 110 participants to identify job seekers attitudes and perception of independent recruiters and online user reviews. Then qualitative semi-structured interviews with participants examined which characteristics of online user reviews were perceived to be useful and trustworthy. Finally, three online user review characteristics were compared against each other in three conditional tests. Prototypes were created replicating an online user review style website for rating recruiters and six job seekers selected a recruiter based on characteristics of each recruiter profile.",
+    "Results: The survey established job seekers current pain points working with recruiters. The interviews identified the most influential characteristics of online user reviews. These were the star rating, the identity of the communicator and long reviews. The user testing established that both the star rating and revealing the identity of the person writing the review are the most influential characteristics.",
+    "Conclusions: The results show the star rating is initially perceived to be the most influential and useful characteristic. However, revealing the identity of the person writing the review is the most important characteristic for establishing trustworthiness. Furthermore, post user testing questionnaire data establish revealing the identity of the person writing the review as the most useful and trustworthy characteristic."
+    ]
+  },
+  {
+    "Year": 2017,
+    "First": "Brenda",
+    "Last": "Walsh",
+    "Title": "Exploration of the Design of Predictive user interfaces and its impact on user satisfaction",
+    "Image": "brenda.png",
+		"Abstract": "N/A"
+  },
+  {
+    "Year": 2018,
+    "First": "David",
+    "Last": "Baxter",
+    "Title": "The Impact of (chatbot) Gender on User Perception and Efficiency",
+    "Image": "david.png",
+		"Abstract": "N/A"
+  },
+  {
+    "Year": 2018,
+    "First": "Alan",
+    "Last": "Duffy",
+    "Title": "Evaluating the Affordance of Icons used in Smartphone Applications",
+    "Image": "alan.png",
+		"Abstract": ["This dissertation measures the task completion rates and time efficiencies of unlabelled solid and hollow icons, and thereafter compares labelled and unlabelled hollow icons; both experiments were conducted in the context of a smartphone prototype app using unmoderated remote testing. The research problems identified were twofold; firstly, whether the continuing trend towards hollow icon usage on user interfaces was more efficient than solid, and secondly, whether labelling icons on a smartphone application was beneficial, and if so, to what degree. There is limited research into the area of icon usage on smartphones, or into hollow icons on any device.",
+    "The method designed for this study incorporated smartphone prototypes to overcome limitations employed in previous iconic research that was conducted out of context on surveys and various electronic interfaces. By employing a methodology that first created a set of recognisable icons for suggested functions, and then prototyping them into a smartphone prototype application, the expected outcome from a user experience point-of-view was that the tasks they were asked to perform were for usability testing. Whereas, the actual purpose was to measure time to complete tasks between-group by alternating from hollow to solid icons, and then unlabelled and labelled, on the prototype.",
+    "The results showed that were no efficiency benefits to using unlabelled hollow or solid icons for either task success rates, or time to completion. However, labelling hollow icons improved the task completion times, although task success rates were not affected."]
+  },
+  {
+    "Year": 2018,
+    "First": "Fergal",
+    "Last": "Dunne",
+    "Title": "Improving the User Experience of Virtual E-Commence Queues",
+    "Image": "fergal.png",
+		"Abstract": "N/A"
+  },
+  {
+    "Year": 2018,
+    "First": "Rachael",
+    "Last": "Elder",
+    "Title": "Design of a mobile application to educate 18–29 year olds on the musculoskeletal impact of excessive smartphone use",
+    "Image": "rachael.png",
+		"Abstract": "N/A"
+  },
+  {
+    "Year": 2018,
+    "First": "Niall",
+    "Last": "Farren",
+    "Title": "GoVibe, a Heads-up Navigation System: Wayfinding for Cyclists through Haptic Feedback",
+    "Image": "niall.png",
+		"Abstract": ["Vibro-tactile (VT) feedback is a form of communication that does not require visual or audio senses to interpret. This makes it an ideal method of wayfinding for cyclists where visual and audio attention should be directed at traffic and or other information in the environment. To investigate the potential of tactile navigation for cyclists the haptic device GoVibe was developed to relay waypoint information to cyclists using vibrational tactile cues. The device is worn as a glove on each hand with tactile actuators (vibrational motors) attached that give waypoint information using directional tactile cues. It relays navigational information by activating vibrational motors which indicate a direction. The VT technology will be used to enhance the navigational experience for cyclists by relaying directional cues to cyclist through the sense of touch.",
+    "The study aims to contribute to the development of tactile based navigation for cyclists by reducing their cognitive load while attempting to navigate an unfamiliar route. By not distracting other senses this approach aims to help the user to focus on the primary task of cycling which occupies the senses of vision and hearing, thus reducing the user’s cognitive load. The GoVibe device was evaluated by comparing it to an audio navigation application. Twelve participants were asked to cycle two routes, one route with GoVibe and the other using the audio application. User task completion, errors rates, spatial knowledge acquisition and usability were measured and analysed by performing and comparing dependant t-tests or the two systems.",
+    "It was found that GoVibe was successful at guiding all participants on an unfamiliar route to the end destination. Results showed no significant differences in either error rates or spatial acquisition between the two systems, suggesting that users were comfortable using either application and were equally proficient at recalling the routes. The usability of both systems was measured through the standardised satisfaction questionnaire SUS. Although results favoured the audio application the usability score for GoVibe was just under an Excellent grading by 0.5%. Future research and iterations will improve GoVibe by making it less cumbersome to use with clearer instructions and will test users in more complex navigational situations."]
+  },
+  {
+    "Year": 2018,
+    "First": "Breda",
+    "Last": "Flanagan",
+    "Title": "Is there a variation in the learnability of Google Material Design navigation pattern across age groups?",
+    "Image": "breda.png",
+		"Abstract": "N/A"
+  },
+  {
+    "Year": 2018,
+    "First": "David",
+    "Last": "Galligan",
+    "Title": "Does the personalisation of a chatbots personality to compliment a user's’ improve the user experience?",
+    "Image": "davidg.png",
+		"Abstract": "N/A"
+  },
+  {
+    "Year": 2018,
+    "First": "Fran",
+    "Last": "Jordan",
+    "Title": "How gamification can motivate jobseekers",
+    "Image": "fran.png",
+		"Abstract": "N/A"
+  },
+  {
+    "Year": 2018,
+    "First": "Sean",
+    "Last": "Lonergan",
+    "Title": "An Investigation into the Usability and User Experience of Two-Factor Authentication on Mobile Devices with an Emphasis on Mobile Banking",
+    "Image": "sean.png",
+		"Abstract": ["The last number years have shown rapid growth in research and development for more secure and usable authentication methods for smartphones (Buriro, Akhtar, Crispo, & Gupta, 2017a). Smartphones today store a vast array of personal and private information. Despite the abundance of features to enhance the security of a user’s phone, many users tend to leave their mobile devices unprotected therefore increasing risk. The importance of two-factor authentication can not be underestimated as it adds an extra layer of security to online platforms and mobile devices that users’ access, therefore, helping secure personal information for users’.  Over the years fingerprint authentication has been a maturing technology when the fingerprints are acquired under the control of the user. It has been considered as one of the best candidates for identity authentication compared with the traditional knowledge-based authentication (Yang & Han, 2014). Over the last number of years, fingerprint authentication has become a method of authentication that gives the user an option to use over alternatives such as, One-Time Passcode, traditional password, swipe patterns, etc.",
+    "The purpose and goal of this thesis is to investigate trust, usability and user satisfaction of two-factor authentication on a mobile device but more specifically for mobile banking. To test the proposed hypothesis, two mobile banking apps were designed to allow the users to interact with and complete a number of tasks. One app used fingerprint ID as the second factor, while the other app used One-Time Passcodes. The participants were asked to complete the following tasks: user enrolment process for a mobile banking app, transfer funds to another account (successful transaction) and transfer funds to another account (failed transaction). To gather qualitative and quantitative data participants were asked to fill in a structured questionnaire relating to all the tasks for both fingerprint ID and OTP.",
+    "The findings showed that for usability there was a difference between Fingerprint ID and OTP with participant’s preferring Fingerprint ID. For user satisfaction, there was no difference between Fingerprint ID and OTP. The results for trust show there was no difference between Fingerprint ID and OTP. However, the results from the failed transactions showed that participant’s preferred OTP over Fingerprint. The qualitative findings for trust outlined that security was the most important feature for mobile banking. The study was limited by the relatively small sample size (N=40)."]
+  },
+  {
+    "Year": 2018,
+    "First": "Kevin",
+    "Last": "O'Connell",
+    "Title": "The impact of the visual perception of shaded and flat objects on the usability of almost flat interfaces",
+    "Image": "kevin.png",
+		"Abstract": "N/A"
+  },
+  {
+    "Year": 2018,
+    "First": "Raymond",
+    "Last": "O'Neill",
+    "Title": "To what extend can touch gestures help in the cold start problem in mobile news recommendation systems.",
+    "Image": "ray.png",
+		"Abstract": "N/A"
+  },
+  {
+    "Year": 2018,
+    "First": "Mariana",
+    "Last": "Spagnuolo",
+    "Title": "Designing for low literacy users on mobile",
+    "Image": "mariana.png",
+		"Abstract": ["According to UNESCO (2017), more than 750 million adults worldwide are illiterate. A much larger portion of the population can only read and write with great difficulty. Today the internet is part of everyday life, providing information and services that are essential to us in sectors like health, security, education and communication. Nevertheless, the vast majority of smartphone interactions rely heavily on reading and writing, and operating smartphones is a challenge for literacy-deficient people. Low-literacy users have greater barriers compared to high-literate users when searching for information on digital devices.",
+    "This research project aims to investigate how high literacy and low literacy users seek information on smartphones and to validate design principles that result in a better experience for all users. The study had 32 participants, 21 low-literacy and 11 high-literacy individuals. The methodology used was a sequential exploratory mixed methods approach, combining both qualitative and quantitative methods in a user-centred design process. The final evaluation used a between-subjects, double-blind quantitative comparison of time on task, task success and satisfaction for both high-literacy and low-literacy users.",
+    "The results show that low literacy users had an improvement of 64% in success rates when the principles were applied. They were also able to complete the tasks almost three times faster. Users with high literacy had an improvement of 14% in success rates and were able to complete their tasks five times as fast. All users reported a higher level of satisfaction with the revised prototype."]
+  },
+  {
+    "Year": 2018,
+    "First": "Marc",
+    "Last": "Surlis",
+    "Title": "Does the presence of icons impact on the user’s comprehension of other unrelated content present in a system?",
+    "Image": "marc.png",
+		"Abstract": "N/A"
+  },
+  {
+    "Year": 2018,
+    "First": "Brendan",
+    "Last": "Tobin",
+    "Title": "Learning with chatbots: The experience and effectiveness of conversational user interfaces as an educational tool",
+    "Image": "brendan.png",
+		"Abstract": ["The area of chatbots has received much attention in recent times. While some believe that the abilities of this medium of human-computer interaction are overstated, others consider that chatbots represent a step-change in interaction with the digital tools we use on a day-to-day basis. As chatbots become more prevalent, their application is considered for more and more use-cases. This dissertation studies their application in education, considering how they compare to more common text-based digital content. In particular, there is a focus on how effectively a student retains the content they have learned using a chatbot in comparison to text-based digital content. The dissertation also reviews how the user experience with the chatbot impacts their engagement and motivation to keep learning with this style of interaction.",
+    "To achieve this, a short course was prepared for users and delivered to two separate groups using two methods. One group received the content via a chatbot, the second group received the content via email. Each groups received the content over five days, with each day taking an estimated 10-15 minutes of users time. Users were tested after completing this course to see how much of the knowledge they had retained. In addition to this, the course tracked user engagement by tracking open rates and collecting a daily rating. A post-course survey was also used to measure the Expectancy Disconfirmation.",
+    "The dissertation finds that there is no significant difference in the knowledge retention between the two formats, but that users find content delivered via chatbot more engaging as demonstrated in their behaviour and qualitative feedback."]
+  }
+]
